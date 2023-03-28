@@ -98,6 +98,7 @@ The official Patch bundle provided by ReVanced and the community.
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
+| `android-auto-cert-patch` | Enable youtube music in android auto in case of non-root version | all |
 | `background-play` | Enables playing music in the background. | all |
 | `client-spoof-music` | Spoofs the YouTube Music client. | all |
 | `custom-branding-music-afn-blue` | Changes the YouTube Music launcher icon (Afn / Blue). | all |
